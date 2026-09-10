@@ -1,0 +1,16 @@
+{
+  "name": "genpark-shock-capturing-riemann-roe-skill",
+  "version": "1.0.0",
+  "description": "1D compressible Euler gas dynamics shock-capturing solver utilizing Roe's approximate Riemann solver for supersonic flow transitions.",
+  "tags": [
+    "genpark-skill",
+    "agentic-ai",
+    "shock-capturing",
+    "riemann-solver",
+    "roe-flux",
+    "gas-dynamics",
+    "supersonic-flow"
+  ],
+  "entrypoint": "client.py",
+  "dependencies": []
+}
